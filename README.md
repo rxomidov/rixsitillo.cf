@@ -1,3 +1,3 @@
 My portfolio website
 
-> rixsitillo.cf
+> https://rixsitillo.cf/
