@@ -11,9 +11,7 @@ const Contact = () => {
                         <img src={logo} alt="logo"/>
                         <div className="row justifyCenter">
                             <div className="col-6">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, qui!
-                                Assumenda culpa cumque error eum modi natus,
-                                quibusdam quisquam repellat sunt suscipit tempora, velit.
+                                jjjjjjjjjjj
                             </div>
                             <div className="contact-circles">
                                 <ul><FaFacebookF/></ul>
