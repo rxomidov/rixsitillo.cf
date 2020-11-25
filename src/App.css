@@ -550,4 +550,10 @@
   .common{
     width: 100%;
   }
+  .skills-card-left{
+    margin: 0 50px 20px;
+  }
+  .p-img{
+    height: 200px;
+  }
 }
