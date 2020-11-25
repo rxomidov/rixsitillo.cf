@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9baab013-cc2b-43c7-9aae-66ec6a9162bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9baab013-cc2b-43c7-9aae-66ec6a9162bc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +50,7 @@
       <workItem from="1606239966962" duration="464000" />
       <workItem from="1606306998184" duration="251000" />
       <workItem from="1606307277130" duration="1664000" />
+      <workItem from="1606309769688" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="Contact.js changed">
       <created>1606240074572</created>
