@@ -12,28 +12,28 @@ const Banner = () => {
                             <div className="header-section">
                                 <ul className="header-ul">
                                     <li>
-                                        <a href="#"><FaFacebookF/></a>
+                                        <a href="https://www.facebook.com"><FaFacebookF/></a>
                                     </li>
                                     <li>
-                                        <a href="#"><FaTwitter/></a>
+                                        <a href="https://www.twitter.com"><FaTwitter/></a>
                                     </li>
                                     <li>
-                                        <a href="#"><FaPinterest/></a>
+                                        <a href="https://www.pinterest.com"><FaPinterest/></a>
                                     </li>
                                     <li>
-                                        <a href="#"><FaInstagram/></a>
+                                        <a href="https://www.instagram.com/__rxz__17"><FaInstagram/></a>
                                     </li>
                                     <li>
-                                        <a href="#"><FaTelegram/></a>
+                                        <a href="https://t.me/rixsitilloxomidov"><FaTelegram/></a>
                                     </li>
                                 </ul>
                                 <h1>I'm Rixsitillo Xomidov</h1>
                                 <p>My name is Rixsitilllo Xomidov. I'm a web developer.</p>
                             </div>
                             <div className="header-buttons">
-                                <a href="#" className="btn btn-outline">My Portfolio</a>
+                                <a href="#portfolio" className="btn btn-outline">My Portfolio</a>
                                 &nbsp;&nbsp;&nbsp;
-                                <a href="#" className="btn btn-smart"><FaPlay className="play" /></a>
+                                <a href="#portfolio" className="btn btn-smart"><FaPlay className="play" /></a>
                             </div>
                         </div>
                     </div>

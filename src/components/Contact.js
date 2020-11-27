@@ -16,10 +16,10 @@ const Contact = () => {
                                 quia veniam voluptas? Assumenda eaque mollitia nisi sint.
                             </div>
                             <div className="contact-circles">
-                                <ul><FaFacebookF/></ul>
-                                <ul><FaTwitter/></ul>
-                                <ul><FaPinterest/></ul>
-                                <ul><FaTelegram/></ul>
+                                <ul><a href="https://www.facebook.com"><FaFacebookF/></a></ul>
+                                <ul><a href="https://www.twitter.com"><FaTwitter/></a></ul>
+                                <ul><a href="https://www.pinterest.com"><FaPinterest/></a></ul>
+                                <ul><a href="https://www.telegram.com"><FaTelegram/></a></ul>
                             </div>
                         </div>
                     </div>

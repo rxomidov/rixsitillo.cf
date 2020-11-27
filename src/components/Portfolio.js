@@ -81,7 +81,8 @@ const Portfolio = () => {
                                     Consequuntur doloribus possimus quaerat vero! Dolor, et!
                                 </div>
                                 <div className="port-link">
-                                    <a href="#" className="btn-view">Visit</a>
+                                    <a href="https://mogo-creative-website.netlify.app"
+                                       className="btn-view">Visit</a>
                                 </div>
                             </div>
                         </div>
@@ -93,7 +94,7 @@ const Portfolio = () => {
                                     Consequuntur doloribus possimus quaerat vero! Dolor, et!
                                 </div>
                                 <div className="port-link">
-                                    <a href="#" className="btn-view">Visit</a>
+                                    <a href="https://bostfolia.netlify.app" className="btn-view">Visit</a>
                                 </div>
                             </div>
                         </div>
@@ -105,7 +106,7 @@ const Portfolio = () => {
                                     Consequuntur doloribus possimus quaerat vero! Dolor, et!
                                 </div>
                                 <div className="port-link">
-                                    <a href="#" className="btn-view">Visit</a>
+                                    <a href="https://alexis-creative-website.netlify.app" className="btn-view">Visit</a>
                                 </div>
                             </div>
                         </div>
@@ -117,7 +118,7 @@ const Portfolio = () => {
                                     Consequuntur doloribus possimus quaerat vero! Dolor, et!
                                 </div>
                                 <div className="port-link">
-                                    <a href="#" className="btn-view">Visit</a>
+                                    <a href="https://vr-box-commercial.netlify.app" className="btn-view">Visit</a>
                                 </div>
                             </div>
                         </div>
@@ -129,7 +130,7 @@ const Portfolio = () => {
                                 Consequuntur doloribus possimus quaerat vero! Dolor, et!
                             </div>
                             <div className="port-link">
-                                <a href="#" className="btn-view">Visit</a>
+                                <a href="https://bostfolia.netlify.app" className="btn-view">Visit</a>
                             </div>
                         </div>
                     </div>
@@ -141,7 +142,7 @@ const Portfolio = () => {
                                     Consequuntur doloribus possimus quaerat vero! Dolor, et!
                                 </div>
                                 <div className="port-link">
-                                    <a href="#" className="btn-view">Visit</a>
+                                    <a href="https://bostfolia.netlify.app" className="btn-view">Visit</a>
                                 </div>
                             </div>
                         </div>
