@@ -5,6 +5,7 @@ import p4 from '../images/p44.jpg';
 import p5 from '../images/p55.jpg';
 import p6 from '../images/p66.jpg';
 import p1 from '../images/p11.jpg';
+import p7 from '../images/p7.jpg';
 
 const Portfolio = () => {
     const [header] = React.useState({
@@ -136,7 +137,7 @@ const Portfolio = () => {
                     </div>
                         <div className="col-4 wow fadeInUp" data-wow-delay="0.6s">
                             <div className="portfolio-box">
-                                <img className="p-img" src={p6} alt=""/>
+                                <img className="p-img" src={p7} alt=""/>
                                 <div className="sb-header padp">RenoShopBee</div>
                                 <div className="sb-pp">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                     Consequuntur doloribus possimus quaerat vero! Dolor, et!
