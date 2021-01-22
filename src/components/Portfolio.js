@@ -125,24 +125,24 @@ const Portfolio = () => {
                         <div className="col-4 wow fadeInUp" data-wow-delay="0.5s">
                         <div className="portfolio-box">
                             <img className="p-img" src={p5} alt=""/>
-                            <div className="sb-header padp">IT CITY</div>
+                            <div className="sb-header padp">Beach Resort</div>
                             <div className="sb-pp">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Consequuntur doloribus possimus quaerat vero! Dolor, et!
                             </div>
                             <div className="port-link">
-                                <a href="https://bostfolia.netlify.app" className="btn-view">Visit</a>
+                                <a href="https://beach-resort-1707.netlify.app" className="btn-view">Visit</a>
                             </div>
                         </div>
                     </div>
                         <div className="col-4 wow fadeInUp" data-wow-delay="0.6s">
                             <div className="portfolio-box">
                                 <img className="p-img" src={p6} alt=""/>
-                                <div className="sb-header padp">CHAMP UZ</div>
+                                <div className="sb-header padp">RenoShopBee</div>
                                 <div className="sb-pp">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                     Consequuntur doloribus possimus quaerat vero! Dolor, et!
                                 </div>
                                 <div className="port-link">
-                                    <a href="https://bostfolia.netlify.app" className="btn-view">Visit</a>
+                                    <a href="https://react-renoshop-continued.netlify.app" className="btn-view">Visit</a>
                                 </div>
                             </div>
                         </div>
